@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Pedro Sánchez 💻
 
-<!--
-**PedroSL0904/PedroSL0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer & Estudiante de Ingeniería en Sistemas
+Apasionado por construir soluciones escalables y eficientes usando **C# (.NET)** y **Java**. Actualmente enfocado en el desarrollo de arquitecturas SaaS y sistemas de gestión empresarial.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías & Herramientas
+- **Lenguajes:** C#, Java, SQL, JavaScript, Python
+- **Frameworks:** ASP.NET Core, Entity Framework, Spring Boot
+- **Base de Datos:** SQL Server, MySQL
+- **Herramientas:** Git, Docker, Azure Data Studio, Visual Studio 2026
+
+### 🚀 Proyectos Destacados
+- **[MediCore SaaS](https://github.com/PedroSL0904/MediCore):** API Multi-Clínica profesional con aislamiento de datos.
+- **Sistema de Flotilla:** Gestión logística y control de unidades.
+
+---
+
+📫 **¿Cómo contactarme?**
+- [Correo](mailto:pedrolucio.0904@gmail.com)
