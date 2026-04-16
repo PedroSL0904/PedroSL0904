@@ -1,4 +1,4 @@
-# ¡Hola! Soy Pedro Sánchez 💻
+# ¡Hola! Soy Pedro Sánchez Lucio 💻
 
 ### Backend Developer | TI Intern @ Mabe
 Desarrollador enfocado en la construcción de soluciones de software eficientes y escalables. Actualmente desarrollo sistemas críticos para el monitoreo industrial en tiempo real, experiencia que complemento con el diseño de plataformas web multicliente (SaaS) y sistemas logísticos (ERP).
