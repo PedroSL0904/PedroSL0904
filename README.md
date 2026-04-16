@@ -13,7 +13,6 @@ Desarrollador enfocado en la construcción de soluciones de software eficientes 
 
 ### 🚀 Proyectos y Experiencia
 - **[API SaaS Multi-cliente](https://github.com/PedroSL0904/MediCore):** Arquitectura backend (C# / .NET) para gestión de servicios con aislamiento de datos estricto.
-- **Sistema de Monitoreo Industrial (Andon):** Lógica backend y base de datos (C# / SQL Server) para visualización de métricas y alertas en líneas de manufactura.
 - **Plataforma Web ERP:** Sistema integral web (Python / Django) para administración de activos vehiculares y KPIs de rutas. *(Próximamente en repositorio)*
 
 ---
