@@ -8,8 +8,8 @@ Desarrollador enfocado en la construcción de soluciones de software eficientes 
 ### 🛠️ Tecnologías & Herramientas
 - **Lenguajes:** C#, Python, Java, SQL, JavaScript
 - **Frameworks:** ASP.NET Core, Django, Entity Framework, Spring Boot
-- **Base de Datos:** SQL Server, PostgreSQL, MySQL
-- **Herramientas:** Git, Docker, SSMS, Visual Studio 2026
+- **Base de Datos:** SQL Server, Oracle APEX
+- **Herramientas:** Git, SSMS, Visual Studio 2026
 
 ### 🚀 Proyectos y Experiencia
 - **[API SaaS Multi-cliente](https://github.com/PedroSL0904/MediCore):** Arquitectura backend (C# / .NET) para gestión de servicios con aislamiento de datos estricto.
