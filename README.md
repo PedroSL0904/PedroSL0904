@@ -1,22 +1,22 @@
 # ¡Hola! Soy Pedro Sánchez Lucio 💻
 
-### Backend Developer | TI Intern @ Mabe
-Desarrollador enfocado en la construcción de soluciones de software eficientes y escalables. Actualmente desarrollo sistemas críticos para el monitoreo industrial en tiempo real, experiencia que complemento con el diseño de plataformas web multicliente (SaaS) y sistemas logísticos (ERP).
+**Backend Developer | TI Intern @ Mabe**
 
----
+Desarrollador enfocado en la construcción de soluciones backend eficientes y escalables. Tengo experiencia en el desarrollo de sistemas críticos para monitoreo industrial, plataformas SaaS multicliente y sistemas de gestión (ERP).
 
-### 🛠️ Tecnologías & Herramientas
+### 🛠 Tecnologías y Herramientas
+
 - **Lenguajes:** C#, Python, Java, SQL, JavaScript
 - **Frameworks:** ASP.NET Core, Django, Entity Framework, Spring Boot
-- **Base de Datos:** SQL Server, Oracle APEX
-- **Herramientas:** Git, SSMS, Visual Studio 2026
+- **Bases de Datos:** SQL Server, Oracle APEX, SQLite
+- **Herramientas:** Git, SSMS, Visual Studio, GitHub Actions (CI/CD)
 
-### 🚀 Proyectos y Experiencia
-- **[API SaaS Multi-cliente](https://github.com/PedroSL0904/MediCore):** Arquitectura backend (C# / .NET) para gestión de servicios con aislamiento de datos estricto.
-- **Plataforma Web ERP:** Sistema integral web (Python / Django) para administración de activos vehiculares y KPIs de rutas. *(Próximamente en repositorio)*
+### 🚀 Proyectos Destacados
 
----
+- **[FleetPro - Gestión de Flotillas](https://github.com/PedroSL0904/fleet-management-system):** Sistema integral web desarrollado en Python/Django para la administración de activos vehiculares, mantenimientos y control de acceso (RBAC). Incluye cobertura de pruebas y pipeline de CI/CD continuo.
+- **API SaaS Multi-cliente:** Arquitectura backend (C# / .NET) para gestión de servicios con aislamiento de datos estricto.
 
-📫 **¿Cómo contactarme?**
-- [LinkedIn](https://www.linkedin.com/in/pedro-sánchez-lucio-1932b6230)
+### 📫 ¿Cómo contactarme?
+
+- [LinkedIn](https://www.linkedin.com/in/pedro-s%C3%A1nchez-lucio-1932b6230)
 - [Correo](mailto:pedrolucio.0904@gmail.com)
