@@ -14,7 +14,7 @@ Desarrollador enfocado en la construcción de soluciones backend eficientes y es
 ### 🚀 Proyectos Destacados
 
 - **[FleetPro - Gestión de Flotillas](https://github.com/PedroSL0904/fleet-management-system):** Sistema integral web desarrollado en Python/Django para la administración de activos vehiculares, mantenimientos y control de acceso (RBAC). Incluye cobertura de pruebas y pipeline de CI/CD continuo.
-- **API SaaS Multi-cliente:** Arquitectura backend (C# / .NET) para gestión de servicios con aislamiento de datos estricto.
+- **[API SaaS Multi-cliente:](https://github.com/PedroSL0904/MediCore)** Arquitectura backend (C# / .NET) para gestión de servicios con aislamiento de datos estricto.
 
 ### 📫 ¿Cómo contactarme?
 
