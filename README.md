@@ -1,15 +1,15 @@
 # Pedro Sánchez Lucio
 **Software Engineer | Backend Developer**
 
-Ingeniero de software especializado en el desarrollo de sistemas backend, arquitecturas de integración y manejo de bases de datos. Trabajo resolviendo problemas técnicos complejos, desde la estructuración de APIs web con arquitecturas multi-tenant, hasta el desarrollo de sistemas industriales con comunicación de hardware en tiempo real.
+Ingeniero de software especializado en el desarrollo de sistemas backend, arquitecturas de integración y manejo de bases de datos. Trabajo resolviendo problemas técnicos complejos, desde la estructuración de APIs web con arquitecturas multi-tenant, hasta el desarrollo de motores lógicos y soluciones empresariales.
 
 ### 🛠 Stack Tecnológico
 
-- **Ecosistema .NET:** C#, ASP.NET Core, Entity Framework Core, WinForms, Win32 API (P/Invoke)
+- **Ecosistema .NET:** C#, ASP.NET Core, Entity Framework Core, WinForms, Win32 API
 - **Python & Web:** Python, Django, JavaScript
 - **Java & Otros:** Java, Spring Boot
 - **Bases de Datos:** SQL Server (T-SQL, Stored Procedures), Oracle APEX, SQLite
-- **Arquitectura & Herramientas:** Arquitecturas SaaS, Patrón Service Layer, MQTT, Git, GitHub Actions (CI/CD)
+- **Arquitectura & Herramientas:** Arquitecturas SaaS, Patrón Service Layer, Git, GitHub Actions (CI/CD), Unity
 
 ---
 
@@ -27,14 +27,10 @@ Ingeniero de software especializado en el desarrollo de sistemas backend, arquit
   * Control de Acceso Basado en Roles (RBAC) personalizado mediante decoradores y Mixins de seguridad.
   * Pipeline de CI/CD automatizado con GitHub Actions y pruebas unitarias (pytest) para validación de servicios.
 
-* **Sistema de Monitoreo Industrial (Código Privado)** | *C#, .NET Framework, MQTT, SQL Server*
-  Ecosistema cliente-servidor desarrollado para el piso de producción (manufactura).
-  * Integración de hardware a bajo nivel mediante llamadas nativas (P/Invoke) para el control de periféricos USB HID.
-  * Comunicación asíncrona entre terminales y soporte técnico gestionada a través de un broker MQTT.
-  * Transacciones seguras y optimizadas delegadas completamente a *Stored Procedures*.
-
-* **Motor de Juego PvZ (Código Privado)** | *C#, Unity 6*
-  Desarrollo de un motor 2D con enfoque en arquitectura de software. Implementa separación estricta entre la matriz lógica y visual, y un sistema de fusiones con complejidad algorítmica `O(1)`.
+* **[PvZ Fusion Engine](https://github.com/PedroSL0904/PvZ_Fusion_Engine)** | *C#, Unity 6*
+  Motor 2D tipo tower-defense construido desde cero con un enfoque en arquitectura de software escalable.
+  * Implementa un motor de fusiones de entidades con complejidad algorítmica `O(1)` basado en diccionarios de tuplas.
+  * Diseñado con una separación estricta entre la matriz lógica y la representación visual mediante hitboxes delegadas y polimorfismo.
 
 ---
 
